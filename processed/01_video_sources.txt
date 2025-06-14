@@ -1,0 +1,163 @@
+m1-2	d2	d
+m2-1	l6-ur3-dr13-d1	ur-l-d-dr
+m2-3	l1-u6-d3-dl13	u-l-d-dl
+m2-6	ur13-l3-r1-d6	ur-l-r-d
+m2-13	l1-u6-dr3-d13	u-l-d-dr
+m3-2	u4-ur14-l5-d2	u-ur-l-d
+m3-4	u2-l14-r5-d4	u-l-r-d
+m3-5	u14-l4-r2-d5	u-l-r-d
+m3-14	u5-r4-l2-d14	u-l-r-d
+m4-3	u7-l5-r8-d3	u-l-r-d
+m4-5	u8-l7-r3-d5	u-l-r-d
+m4-7	u3-l8-ur5-d7	u-ur-l-d
+m4-8	ul5-l3-r7-d8	ul-l-r-d
+m5-3	l6-r4-d3	l-r-d
+m5-4	u6-l3-d4	u-l-d
+m5-6	u4-r3-d6	u-r-d
+m6-2	l9-r5-d2	l-r-d
+m6-5	ur9-l2-d5	ur-l-d
+m6-9	ul5-ur2-d9	ul-ur-d
+m7-4	ul9-dr8-d4	ul-d-dr
+m7-9	ur4-l8-d9	ur-l-d
+m7-8	l4-ur9-d8	ur-l-d
+m8-4	l7-d4	l-d
+m8-7	r4-d7	r-d
+m9-6	u7-l10-d6	u-l-d
+m9-7	ul6-u10-r11-d7	ul-u-r-d
+m9-10	ur6-ul7-d10	ur-ul-d
+m9-11	ul6-u10-dl7-d11	ul-u-d-dl
+m10-9	ul13-l12-r11-d9	ul-l-r-d
+m10-12	l11-u9-dl13-d12	u-l-d-dl
+m10-13	l11-u9-r12-d13	u-l-r-d
+m11-9	u9	u
+m11-10	u9	u
+m12-10	d10	d
+m13-2	u10-d2	u-d
+m13-10	u2-d10	u-d
+m14-3	d3	d
+i1-2-2	pt2-a.mp4	56	61	
+i2-1-1	pt1-a.mp4	3.2	9	
+i2-1-3	pt2-a.mp4	1	6	
+i2-1-6	pt2-a.mp4	64	70	
+i2-1-13	pt13-f.mp4	1.5	12	
+i2-3-1	pt2-a.mp4	48	53	
+i2-3-3	pt2-c.mp4	2	5.6	
+i2-3-6	pt2-b.mp4	20	24	
+i2-3-13	pt13-c.mp4	2	11	
+i2-6-1	pt2-b.mp4	33	37	
+i2-6-3	pt2-b.mp4	3	7.2	
+i2-6-6	pt2-c.mp4	24	29	
+i2-6-13	pt13-e.mp4	3.2	15	
+i2-13-1	pt2-a.mp4	48	53	
+i2-13-3	pt2-c.mp4	2	5.6	
+i2-13-6	pt2-b.mp4	20	24	
+i2-13-13	pt13-c.mp4	2	11	
+i3-2-2	pt3.mp4	100	104	
+i3-2-4	pt3.mp4	73	81	
+i3-2-5	pt3.mp4	115	126.6	
+i3-2-14	pt3-b.mp4	2.5	10	
+i3-4-2	pt3.mp4	58	66.2	
+i3-4-4	pt3.mp4	44	50	
+i3-4-5	pt3.mp4	4	15.6	
+i3-4-14	pt3-d.mp4	4	9	
+i3-5-2	pt3.mp4	143	157.6	
+i3-5-4	pt3.mp4	25	38	
+i3-5-5	pt3.mp4	132	138	
+i3-5-14	pt3-c.mp4	5	16	
+i3-14-0	pt14-b.mp4	13	13.5	
+i3-14-2	pt3-g.mp4	2.5	23	ignoreLink
+i3-14-4	pt14-d.mp4	16.5	21	
+i3-14-5	pt3-h.mp4	3.7	14	
+i3-14-14	pt3-f.mp4	3	6	
+i4-3-3	pt4-d.mp4	2	6	
+i4-3-5	pt4-e.mp4	13	22	
+i4-3-7	pt4-b.mp4	1	17	
+i4-3-8	pt4-c.mp4	1	12	
+i4-5-3	pt4-c.mp4	65	74	
+i4-5-5	pt4-e.mp4	36	43	
+i4-5-7	pt4-e.mp4	48	62	
+i4-5-8	pt4-g.mp4	19	31	
+i4-7-3	pt4-f.mp4	1	14.5	
+i4-7-5	pt4-c.mp4	37	50	
+i4-7-7	pt4-e.mp4	70	78	
+i4-7-8	pt4-j.mp4	2	14	
+i4-8-3	pt4-a.mp4	20	30.5	
+i4-8-5	pt4-g.mp4	2	12.6	
+i4-8-7	pt4-c.mp4	18	30	
+i4-8-8	pt4-k.mp4	2	8	
+i5-3-3	pt5-b.mp4	3	8	
+i5-3-4	pt5-a.mp4	2	12	
+i5-3-6	pt5-b.mp4	14	24.2	
+i5-4-3	pt5-b.mp4	78	91	
+i5-4-4	pt5-b.mp4	65	70	
+i5-4-6	pt5-a.mp4	21	33	
+i5-6-3	pt5-a.mp4	42	52	
+i5-6-4	pt5-b.mp4	43.6	57	
+i5-6-6	pt5-b.mp4	32.6	37	
+i6-2-2	pt6-c.mp4	27.4	33	
+i6-2-5	pt2-a.mp4	70	79	
+i6-2-9	pt6-b.mp4	33	42	
+i6-5-2	pt6-b.mp4	19	27	
+i6-5-5	pt6-c.mp4	50.2	55	
+i6-5-9	pt6-a.mp4	38.5	43.4	
+i6-9-2	pt6-a.mp4	3	13	
+i6-9-5	pt6-b.mp4	2.4	8.5	
+i6-9-9	pt6-c.mp4	3.4	6.4	
+i7-4-4	pt7-a.mp4	109	111	
+i7-4-8	pt7-a.mp4	122	125	
+i7-4-9	pt7-a.mp4	63.2	70	
+i7-8-4	pt7-a.mp4	48	51	
+i7-8-8	pt7-a.mp4	141	144.2	
+i7-8-9	pt7-c.mp4	4	12	
+i7-9-4	pt7-a.mp4	91	99	
+i7-9-8	pt7-a.mp4	3	11	
+i7-9-9	pt7-a.mp4	80.4	84	
+i8-4-4	pt8-d.mp4	3	6	
+i8-4-7	pt8-c.mp4	4	20	
+i8-7-4	pt8-b.mp4	2.6	7	
+i8-7-7	pt7-a.mp4	28	46	
+i9-6-6	pt9-i.mp4	2.5	13.2	
+i9-6-7	pt9-a.mp4	2.5	10	
+i9-6-10	pt9-e.mp4	2.8	9.5	
+i9-7-6	pt9-n.mp4	2	15	
+i9-7-7	pt9-j.mp4	3.2	7.7	
+i9-7-10	pt9-b.mp4	3	13	
+i9-7-11	pt9-g.mp4	3	21	
+i9-10-6	pt9-d.mp4	2	17	
+i9-10-7	pt9-f.mp4	2.5	12.7	
+i9-10-10	pt9-h.mp4	3.3	6.4	
+i9-11-6	pt9-n.mp4	2	15	
+i9-11-7	pt9-j.mp4	3.2	7.7	
+i9-11-10	pt9-b.mp4	3	13	
+i9-11-11	pt9-g.mp4	3	21	
+i10-9-9	pt10-m.mp4	1.7	6.2	
+i10-9-11	pt10-c.mp4	3	13.5	
+i10-9-12	pt10-a.mp4	3.5	10	
+i10-9-13	pt10-f.mp4	3.5	32	ignoreLink
+i10-12-9	pt10-n.mp4	2	8	
+i10-12-11	pt10-b.mp4	4	16.2	
+i10-12-12	pt10-d.mp4	3.8	5.5	
+i10-12-13	pt10-h.mp4	2.8	27.5	ignoreLink
+i10-13-9	pt10-k.mp4	2	8.5	
+i10-13-11	pt10-l.mp4	4	17	
+i10-13-12	pt10-i.mp4	3	6	
+i10-13-13	pt10-j.mp4	3.5	9	
+i11-9-9	pt11-b.mp4	2.5	18.5	
+i11-10-9	pt11-b.mp4	2.5	18.5	
+i12-10-10	pt12-a.mp4	3	8	
+i13-2-2	pt13-h.mp4	2.8	12	
+i13-2-10	pt13-d.mp4	2.8	23	
+i13-10-2	pt13-b.mp4	3.2	14	
+i13-10-10	pt13-a.mp4	2.7	26	
+i14-3-3	pt14-d.mp4	7.3	10	
+k2-3	pt2-a.mp4	6	19	
+k3-2	pt2-a.mp4	33.4	44.4	
+k3-4	pt4-i.mp4	3.4	17	
+k4-3	pt4-h.mp4	10	23	
+k4-8	pt4-j.mp4	14	42	
+k6-9	pt6-a.mp4	44	52.2	
+k7-8	pt7-a.mp4	11	22	
+k7-9	pt7-b.mp4	8	20.5	
+k8-4	pt8-b.mp4	7	27	
+k9-7	pt6-a.mp4	56.8	70	
+k10-13	pt10-h.mp4	10	27.5	
