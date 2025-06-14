@@ -5,11 +5,13 @@ The game can be played on any device that can play DVDs and show menus, includin
 a venerable DVD player, or
 a video player on desktop, laptop, or mobile, such as [VLC media player](https://www.videolan.org/vlc/).
 
-The ISO image file [``dvd_stjerner_231014.iso``](https://drive.google.com/file/d/1pmniI_VgP61LEuj4KDtMpiBAE43Bcg33/view?usp=sharing) can be downloaded from [Google Drive](https://drive.google.com/file/d/1pmniI_VgP61LEuj4KDtMpiBAE43Bcg33/view?usp=sharing).
+The ISO image file [``dvd_stjerner_231014.iso``](https://drive.google.com/file/d/1pmniI_VgP61LEuj4KDtMpiBAE43Bcg33/view?usp=sharing) can be downloaded from [Google Drive](https://drive.google.com/file/d/1pmniI_VgP61LEuj4KDtMpiBAE43Bcg33/view?usp=sharing) (945 MB).
 
 ## Getting Started
 * **With physical DVD**: Download the ISO image and burn to DVD (Windows: right-click .iso image file and select "Burn disc image"), then play in a DVD player or app on PC/Mac or Mobile devices.
 * **Without physical DVD**: Download the ISO image, start the DVD player app and open the .iso image file.
+
+![DVD Cover](/assets/view_cover_640px.png)
 
 ## About the Game
 The goal is to find and capture three stars that are randomly placed across 14 places on the playground. Each find is rewarded with a little star animation.
@@ -25,7 +27,9 @@ Where available, selecting the arrow pointing straight down will lead back to th
 ### Menu Options
 There are two "menus". They can be entered with dedicated buttons on the DVD remote, or somewhere in the menu system of the app where they are probably called "Main menu", "Title menu", or "Chapter menu".
 One menu is the start screen that allows to start a new game. The other menu has two menu options: one to request a smiley at the current place, and the other to toggle the transition videos off and on. Also, the "resume"
-button on a remote control should work in the latter menu.
+button on a remote control should work in the latter menu. In case somebody wonders, "innstillinger" is Norwegian for "settings".
+
+![Screenshot of menu titled "innstillinger"](/assets/view_toggle_640px.png)
 
 ## Known Limitations
 The game does not disable buttons that should not be pushed. For example, one can bring the game into an undefined state by pushing the "skip chapter" button. Strange behavior or a blue screen with the words "eject disc" are
