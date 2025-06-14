@@ -8,7 +8,7 @@ a video player on desktop, laptop, or mobile, such as [VLC media player](https:/
 The ISO image file [``dvd_stjerner_231014.iso``](https://drive.google.com/file/d/1pmniI_VgP61LEuj4KDtMpiBAE43Bcg33/view?usp=sharing) can be downloaded from [Google Drive](https://drive.google.com/file/d/1pmniI_VgP61LEuj4KDtMpiBAE43Bcg33/view?usp=sharing) (945 MB).
 
 ## Getting Started
-* **With physical DVD**: Download the ISO image and burn to DVD (Windows: right-click .iso image file and select "Burn disc image"), then play in a DVD player or app on PC/Mac or Mobile devices.
+* **With physical DVD**: Download the ISO image and burn to DVD (Windows: right-click .iso image file and select "Burn disc image"), then play in a DVD player or app on PC/Mac/Linux.
 * **Without physical DVD**: Download the ISO image, start the DVD player app and open the .iso image file.
 
 ![DVD Cover](/assets/view_cover_640px.png)
