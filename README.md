@@ -34,7 +34,7 @@ button on a remote control should work in the latter menu. In case somebody wond
 ![Screenshot of menu titled "innstillinger"](/assets/view_toggle_640px.png)
 
 ## Known Limitations
-The game does not disable buttons that should not be pushed. For example, one can bring the game into an undefined state by pushing the "skip chapter" button. Strange behavior or a blue screen with the words "eject disc" are
+The game does not disable buttons that should not be pushed. For example, one can bring the game into an undefined state by pushing the "skip chapter" button too many times. Strange behavior or a blue screen with the words "eject disc" are
 signs that the game is in an undefined state. The best way to get the game back into a defined state is by ejecting the DVD and re-inserting it.
 
 ## If it looks odd on a conventional TV
